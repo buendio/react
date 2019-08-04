@@ -1,0 +1,21 @@
+.item {
+	background: #333;
+	display: block;
+	font-size: 3em;
+	margin: 20px 0;
+}
+.dialogs {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+}
+.item_mesage {
+	background: #f4f;
+	margin: 20px 0;
+}
+.active {
+	color:yellow;
+}

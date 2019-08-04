@@ -1,0 +1,11 @@
+p {
+	
+	font-size: 3em;
+}
+.item {
+	background: red;
+}
+.post {
+	background: aqua;
+}
+.post:nth-child(2n) {background: yellow;}
